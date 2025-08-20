@@ -1,10 +1,9 @@
-- A Python script that takes two numbers as input and performs:
-    - Addition
-    - Subtraction
-    - Multiplication
-    - Division (with error handling for division by zero)
-- The script then displays the results of all operations on the screen.
+- A Python script that:
+    - Takes an integer input from the user.
+    - Uses an if-else statement to check whether the number is even or odd.
+    - Displays the result accordinglY.
 
-- A Python script that takes the user’s first name and last name as input.
-    - Concatenates them into a full name.
-    - Prints a personalized greeting message.
+- A Python script that:
+    - Uses a for loop to iterate through numbers from 1 to 50.
+    - Calculates the sum of these numbers.
+    - Displays the final result.
