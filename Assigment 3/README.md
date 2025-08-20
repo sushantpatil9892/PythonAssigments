@@ -1,0 +1,12 @@
+- A Python script that:
+- Defines a function named factorial that calculates the factorial of a number using recursion or a loop.
+- Returns the factorial value.
+- Calls the function with a sample number and prints the result
+
+- A Python script that:
+    - Accepts a number as input from the user.
+        - Uses the math module to calculate:
+        - Square root
+        - Natural logarithm (log base e)
+        - Sine (in radians)
+    - Displays the calculated results.
