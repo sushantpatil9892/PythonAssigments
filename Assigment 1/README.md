@@ -1,10 +1,9 @@
-- A Python script that takes two numbers as input and performs:
+- **Calculator Script**
+    A Python script that prompts the user to enter two numbers, then performs and displays the results of:
     - Addition
     - Subtraction
     - Multiplication
     - Division (with error handling for division by zero)
-- The script then displays the results of all operations on the screen.
 
-- A Python script that takes the user’s first name and last name as input.
-    - Concatenates them into a full name.
-    - Prints a personalized greeting message.
+- **Greeting Script**
+    A Python script that asks for the user's first and last name, combines them into a full name, and prints a personalized greeting.

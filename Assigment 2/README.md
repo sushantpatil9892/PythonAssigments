@@ -1,9 +1,9 @@
-- A Python script that:
-    - Takes an integer input from the user.
-    - Uses an if-else statement to check whether the number is even or odd.
-    - Displays the result accordinglY.
+- **Even or Odd Number Checker**
+    - Prompts the user to enter an integer.
+    - Determines if the number is even or odd using an `if-else` statement.
+    - Displays whether the number is even or odd.
 
-- A Python script that:
-    - Uses a for loop to iterate through numbers from 1 to 50.
-    - Calculates the sum of these numbers.
+- **Sum Calculator (1 to 50)**
+    - Iterates through numbers from 1 to 50 using a `for` loop.
+    - Calculates the total sum.
     - Displays the final result.
